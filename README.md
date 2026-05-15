@@ -48,8 +48,8 @@ plt.tight_layout()
 plt.show()
 ```
 # Output Waveform
-```
-<img width="1034" height="808" alt="image" src="https://github.com/user-attachments/assets/636a4f60-a181-4109-b303-d6d0f120bada" />
+```<img width="1034" height="808" alt="Screenshot 2026-05-15 153130" src="https://github.com/user-attachments/assets/8c421cfb-c661-437a-88b9-feab2dc366eb" />
+
 
 ```
 # Results
