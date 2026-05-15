@@ -4,7 +4,7 @@ Write a simple Python program for the modulation and demodulation of ASK and FSK
 # Tools required
 # Program
 ```
-Attach the program
+
 import numpy as np
 import matplotlib.pyplot as plt
 
